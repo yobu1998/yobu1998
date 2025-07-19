@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Python Developer with 2.8 years of experience in backend development and CUIC reporting. Currently learning full stack development using Django and React.
+I'm a Python Developer with 3 years of experience in backend development and CUIC reporting. Currently learning full stack development using Django and React.
 
 ### 🔧 Tech Stack:
 - Python • SQL • CUIC • Flask • Software Development • REST API's • Salesforce • DialogflowCX • Automation • Data Science
