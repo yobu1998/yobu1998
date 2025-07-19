@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**yobu1998/yobu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Developer with 2.8 years of experience in backend development and CUIC reporting. Currently learning full stack development using Django and React.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack:
+- Python • SQL • CUIC • Flask • Software Development • REST API's • Salesforce • DialogflowCX • Automation • Data Science
+- Django (in progress)
+- React.js (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Goals for 2025:
+- ✅ Build 2 full stack apps
+- ✅ Switch to full stack dev role
+- ✅ Contribute to open source
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-profile)
