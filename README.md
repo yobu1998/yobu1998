@@ -12,4 +12,4 @@ I'm a Python Developer with 3 years of experience in backend development and CUI
 - ✅ Switch to full stack dev role
 - ✅ Contribute to open source
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yobu-s-b28918171)
